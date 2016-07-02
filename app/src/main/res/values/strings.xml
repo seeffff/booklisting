@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookTwo</string>
+
+    <string name="generate_books">Generate Books</string>
+</resources>
